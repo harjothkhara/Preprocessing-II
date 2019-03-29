@@ -45,5 +45,6 @@ Fun Bus is a travel agency looking for some help on their website.  They want a 
 * [ ] Introduce a form with inputs allowing users to select a vacation package and a submit button at the bottom of the page. Introduce inputs for name, email, phone number, and an area for them to leave special instructions. 
 * [ ] Style the site to look good at all sizes, not just desktop and phone
 
+- Harjoth test for initial commit
 
 
